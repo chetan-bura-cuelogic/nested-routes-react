@@ -7,18 +7,18 @@ import { Helmet } from 'react-helmet';
 import Resource from './Resource'
 const all_topics = [
     {
-      name: 'React Router',
+      name: 'React Router111',
       id: 'react-router',
       description: 'Declarative, component based routing for React',
       resources: [
         {
-          name: 'URL Parameters',
+          name: 'URL Parameters111',
           id: 'url-parameters',
           description: "URL parameters are parameters whose values are set dynamically in a page's URL. This allows a route to render the same component while passing that component the dynamic portion of the URL so it can change based off of it.",
           url: 'https://tylermcginnis.com/react-router-url-parameters/'
         },
         {
-          name: 'Programatically navigate',
+          name: 'Programatically navigate11',
           id: 'programmatically-navigate',
           description: "When building an app with React Router, eventually you'll run into the question of navigating programmatically. The goal of this post is to break down the correct approaches to programmatically navigating with React Router.",
           url: 'https://tylermcginnis.com/react-router-programmatically-navigate/'
@@ -26,7 +26,7 @@ const all_topics = [
       ]
     },
     {
-      name: 'React.js',
+      name: 'React.js11',
       id: 'reactjs',
       description: 'A JavaScript library for building user interfaces',
       resources: [
@@ -45,7 +45,7 @@ const all_topics = [
       ]
     },
     {
-      name: 'Functional Programming',
+      name: 'Functional Programming11',
       id: 'functional-programming',
       description: 'In computer science, functional programming is a programming paradigm—a style of building the structure and elements of computer programs—that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.',
       resources: [
