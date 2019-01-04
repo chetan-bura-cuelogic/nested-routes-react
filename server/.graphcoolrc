@@ -1,0 +1,3 @@
+targets:
+  local: shared-eu-west-1/cjpxrasbq3r4c0152es6todue
+  default: local
